@@ -1,6 +1,6 @@
 # trabajo-integrador-SQL
 
-#Integrantes
+# Integrantes
   Lautaro Barbero
   Gisele Bruno
   Michael Huaman
